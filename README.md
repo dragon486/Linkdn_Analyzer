@@ -235,14 +235,6 @@ streamlit run dashboard.py
 
 ## 📊 Sample Output
 
-### Dashboard Preview
-
-<div align="center">
-
-![Dashboard Preview](https://via.placeholder.com/800x600/1e1e1e/ffffff?text=Streamlit+Dashboard+Preview)
-
-</div>
-
 #### **Main Metrics Panel**
 
 ```
